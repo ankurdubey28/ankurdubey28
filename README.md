@@ -87,5 +87,8 @@ Currently spending most of my time around SRE, Go backends, Dockerized services,
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="44" height="44" alt="Grafana" title="Grafana"/><br>Grafana
     </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="44" height="44" alt="Argo CD" title="Argo CD"/><br>Argo CD
+    </td>
   </tr>
 </table>
