@@ -2,7 +2,7 @@
 
 Software Engineering graduate from Delhi Technological University, building around reliability, backend systems, platform engineering, cloud infrastructure, and AI-powered developer tools.
 
-Currently spending most of my time around SRE, Go backends, Dockerized services, observability, automation, and the occasional AI agent that tries very hard to be useful.
+Currently spending most of my time around SRE, backend, Dockerized services, observability, automation, and the Agentic AI.
 
 ## What I'm Into
 
