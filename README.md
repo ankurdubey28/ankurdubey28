@@ -68,7 +68,7 @@ Currently spending most of my time around SRE, backend, Dockerized services, obs
   </tr>
 </table>
 
-## Currently Learning
+## Exploring
 
 <table>
   <tr>
